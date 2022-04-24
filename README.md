@@ -22,19 +22,11 @@
 
 ### Join Screen
 
-![Join Screen]()
-
-### Meet Screen
-
-![Meet Screen](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(72).png)
+![Join Screen](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(72).png)
 
 ### Request from other user
 
 ![Request from other user](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(74).png)
-
-### Users on call
-
-![Users on call]()
 
 ### Whiteboard(Live)
 
