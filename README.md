@@ -18,39 +18,39 @@
 
 ### Home
 
--To be done-
+![Home](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(70).png)
 
 ### Join Screen
 
--To be done-
+![Join Screen]()
 
 ### Meet Screen
 
--To be done-
+![Meet Screen](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(72).png)
 
 ### Request from other user
 
--To be done-
+![Request from other user](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(74).png)
 
 ### Users on call
 
--To be done-
+![Users on call]()
 
 ### Whiteboard(Live)
 
--To be done-
+![Whiteboard](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(77).png)
 
 ### Options
 
--To be done-
+![Options](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(71).png)
 
 ### Notes
 
--To be done-
+![Notes](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(76).png)
 
 ### Chat
 
--To be done-
+![Chat](https://github.com/99SharmaTushar/Merge/blob/master/client/src/common/Screenshot%20(75).png)
 
 ## Steps to run in your machine
 
